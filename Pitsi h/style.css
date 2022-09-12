@@ -1,0 +1,256 @@
+@font-face
+
+{
+
+font-family: Soup;
+
+src:url(soup.ttf);
+
+
+}
+
+body
+{
+	color: white;
+	font-family: Soup;
+	margin: 0;
+	padding:0;
+	
+
+	
+}
+
+#logo
+{
+	width:100%;
+	height: 100px;
+	text-align:center;
+	background-color: #302819;
+	box-sizing: border-box;
+	border-bottom:2px solid #504136;
+	clear:both;
+}
+.logo1
+{
+	width:25%;	
+	float: left;
+	height:100px;
+}
+.zd1
+{
+	
+	height:100%;
+}
+#zd
+{
+	height:100px;
+	
+}
+#klasy
+{
+	width: 25%;
+	float: left;
+
+}
+.p1234
+{
+	width:100%;
+	box-sizing: border-box;
+	text-align:center;
+	height:98px;
+	padding-top:10px;
+	background-color: #423722;
+	border: 2px solid #504136;
+	font-size: 50px;
+	transition: 0.5s;
+	padding-left: 50px;
+	
+	
+	
+}
+#baner0
+{
+	
+	border: 4px solid #504136;
+	height:400px;
+	box-sizing: border-box;
+	
+}
+#baner
+{
+	width: 45%;
+	float:left;
+	text-align:center;
+	height:100%;
+	background-color:#78623a;
+	border-right: 4px solid #504136;
+	font-size:40px;
+	padding-top: 120px;
+	box-sizing: border-box;
+
+	
+	
+	
+	
+}
+#baner2
+{
+	width: 30%;
+	height:100%;
+	float:left;
+	
+	
+	
+	
+
+	
+	
+}
+#zdj
+{
+	height:100%;
+	width:100%; 
+	box-sizing: border-box;
+	
+	
+	
+	
+	
+}
+
+#tresc
+{
+	clear:both;
+	height:450px;
+	text-align:center;
+	background-color:#a18754;
+	color:white;
+	border-left: 2px solid 	#7B644F;
+	border-right: 2px solid #7B644F;
+	padding-top: 80px;
+	box-sizing: border-box;
+	font-size: 25px;
+	padding-left:250px;
+	padding-right:250px;
+	
+}
+#tresc_1
+{
+	clear:both;
+	height:480px;
+	text-align:center;
+	background-color:#a18754;
+	border-left: 2px solid 	#7B644F;
+	border-right: 2px solid #7B644F;
+	padding-top: 180px;
+	box-sizing: border-box;
+	font-size: 25px;
+	
+	
+}
+#tresc_2
+{
+	float:left;
+	height:600px;
+	text-align:center;
+	background-color:#a18754;
+	border-left: 2px solid 	#7B644F;
+	border-right: 2px solid #7B644F;
+	padding-top: 225px;
+	box-sizing: border-box;
+	padding-left:200px;
+	padding-right:200px;
+	width:50%;
+	font-size: 30px;
+	
+}
+#tresc2_3
+{
+	float:left;
+	height:600px;
+	text-align:center;
+	background-color:#a18754;
+	border-left: 2px solid 	#7B644F;
+	border-right: 2px solid #7B644F;
+	padding-top: 80px;
+	box-sizing: border-box;
+	padding-left:200px;
+	padding-right:200px;
+	width:50%;
+}
+#tresc_4
+{
+	clear:both;
+	height:1250px;
+	text-align:center;
+	background-color:#a18754;
+	border-left: 2px solid 	#7B644F;
+	border-right: 2px solid #7B644F;
+	box-sizing: border-box;
+}
+
+.g
+{
+padding-top: 10px;
+float:left;
+width: 33.3%;
+height: 400px;
+}
+.o
+{
+ height: 300px;
+ width: 100%;
+}
+.z
+{
+	height:300px;
+	width:85%;
+	border:3px solid black;
+	box-sizing: border-box;
+}
+.p
+{
+	text-align: center;
+	padding-top: 20px;
+	height: 20px;
+	font-size: 50px;
+}
+
+
+#stop
+{
+	
+	clear:both;
+	text-align:center;
+	height:25px;
+	padding-top:10px;
+	background-color:#d4b06a;
+	border: 2px solid #9C7F64;
+	
+}
+
+
+a {
+   text-decoration: none;
+   color: #ccc4c4;
+}
+
+
+.p1234:hover
+{
+	background-color: #211c11;
+	cursor:pointer;	
+	
+}
+
+.p1234 i{
+    color: white;
+    margin-right: 5px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.p1234:hover i{
+    opacity: 1;
+    transition: 0.5s;
+}
